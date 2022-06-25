@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, seja bem vindo(a) 💗
 
-<!--
-**LariTonetto/LariTonetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Sobre mim
+🌱 Biologa Marinha pela UNESP (2015) e Licenciada pela UNINOVE (2019)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤯 Transição de Carreira (2021)
+
+👓 Curso Superior de Tecnologia Engenheiro de Qualidade de Software pela EBAC (cursaando)
+
+💼 Analista de Qualidade na MindMiners
+
+
+💬 Sou uma pessoa que ama ensinar, passar conhecimento adiante e disposta a aprender sobre assuntos diversos e proativa para tal.
+
+
+### Detalhes
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LariTonetto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contato
+https://www.linkedin.com/in/larissa-gottschall-tonetto-03a08a121/
